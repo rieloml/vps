@@ -1,6 +1,6 @@
 #!/bin/bash
 # ============================================================
-#  Evil Vps V1 — Installer
+#  Zyntrix Vps V1 — Installer
 #  Sets up LXD/LXC, Python deps, systemd service for bot.py
 # ============================================================
 
